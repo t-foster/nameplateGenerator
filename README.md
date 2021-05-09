@@ -8,4 +8,10 @@ At work the doors had nameplates on the doors showing who had offices where.  At
 
 `./generateNameplateEngrave.sh "first last"`
 
-You may need to modify it for your inkscape install location
+You may need to modify the script for your inkscape install location
+
+## links
+
+[inkscape download](https://inkscape.org/release/inkscape-1.0.2/)
+
+[lamacoids for nameplates](https://www.mcmaster.com/lamacoids/)
